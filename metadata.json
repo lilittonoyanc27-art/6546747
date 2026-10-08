@@ -1,0 +1,6 @@
+{
+  "name": "¿Quién Quiere Ser Millonario? — Futuro Simple",
+  "description": "Իսպաներենի Futuro Simple խաղ-վիկտորինա «Ո՞վ է ուզում դառնալ միլիոնատեր» ոճով՝ իսպաներենից հայերեն ինտերակտիվ թարգմանությամբ և քերականական ուղեցույցով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
